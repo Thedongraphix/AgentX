@@ -71,4 +71,4 @@ Example prompts:
 ## License
 
 Apache-2.0
-# AgentX
+# AgentX test kit for clone and fork on github
