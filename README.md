@@ -4,7 +4,7 @@ This example demonstrates an agent setup on XMTP Network with access to the full
 
 ![](./screenshot.png)
 
-## Getting started today
+## Get started today
 
 > [!TIP]
 > See XMTP's [cursor rules](/.cursor/README.md) for vibe coding agents and best practices.
